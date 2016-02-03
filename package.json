@@ -1,0 +1,21 @@
+{
+  "name": "eslint-config-testpilot",
+  "description": "Shared ESLint config for Test Pilot repos",
+  "version": "1.0.0",
+  "author": "Peter deHaan <peter@deseloper.com> (https://about.me/peterdehaan)",
+  "bugs": {
+    "url": "https://github.com/pdehaan/eslint-config-testpilot/issues"
+  },
+  "dependencies": {},
+  "homepage": "https://github.com/pdehaan/eslint-config-testpilot#readme",
+  "keywords": [
+    "eslint",
+    "eslint-config"
+  ],
+  "license": "WTFPL",
+  "main": "index.js",
+  "repository": "pdehaan/eslint-config-testpilot",
+  "scripts": {
+    "test": "eslint ."
+  }
+}
